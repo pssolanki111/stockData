@@ -2,7 +2,7 @@
 A python script to get stock data from alpha-vantage API, which plots the data in Candlesticks graphs and updates every one hour automatically. Also adds new data to a CSV continuously.
 
 # Screenshots
-![Example Screenshot 1](screenshots/22.png)
+![Example Screenshot 1](https://github.com/pssolanki111/stockData/blob/main/screenshots/22.PNG)
 
 # Features
 The program allows you to customize your results with 4 available options. These are:
@@ -31,3 +31,5 @@ The script requires only the following third party packages/modules which are no
        - finplot
        
 All other modules/pavkages used are part of standard python distribution and need not be installed separately.
+
+![Example screenshot 2](https://github.com/pssolanki111/stockData/blob/main/screenshots/11.PNG)
